@@ -1,0 +1,13 @@
+{
+    "name": "binary",
+    "description": "binary to decimal converter ",
+    "toolkit": "basic",
+    "sources": [
+        "src/binary.bas"
+    ],
+    "build": "debug",
+    "definitions": [],
+    "includes": [],
+    "args": [],
+    "compiler": ""
+}
